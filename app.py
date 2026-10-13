@@ -1,5 +1,5 @@
 # This code is from https://github.com/LondheShubham153/flask-app-ecs.git
-# try linter
+# try linting
 from flask import Flask, render_template
 app = Flask(__name__)
 
