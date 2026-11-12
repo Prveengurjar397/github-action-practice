@@ -1,4 +1,4 @@
-# This code is from https://github.com/LondheShubham153/flask-app-ecs.git
+# This code is from https://github.com/Prveengurjar397/github-action-practice/edit/main/app.py
 from flask import Flask, render_template
 app = Flask(__name__)
 
