@@ -1,5 +1,4 @@
 # This code is from https://github.com/Prveengurjar397/github-action-practice/edit/main/app.py
-#this is py file
 from flask import Flask, render_template
 app = Flask(__name__)
 
